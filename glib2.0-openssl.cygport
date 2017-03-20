@@ -1,0 +1,9 @@
+ORIG_PN="glib-openssl"
+inherit gnome2
+
+NAME="glib2.0-openssl"
+VERSION=2.50.1
+RELEASE=1
+CATEGORY="Libs"
+SUMMARY="GIO openssl modules"
+DESCRIPTION="OpenSSL-related GIO modules for GLib."
